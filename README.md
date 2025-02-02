@@ -4,14 +4,14 @@ This is a simple web-based **Inventory Management System** designed to manage in
 
 ---
 # Project Structure
-inventory-management-system/
-├── php/                  # Directory for PHP application files
-│   ...........
-├── sql/                  # Directory with Database initialization files
-│   └── init.sql          # SQL script to initialize the database
-├── docker-compose.yml    # Docker Compose configuration
-├── README.md             # Project documentation
-└── Dockerfile            # Custom Dockerfile for PHP
+- **inventory-management-system/**
+- **├── php/**                  # Directory for PHP application files
+- │   ...........
+- **├── sql/**                  # Directory with Database initialization files
+- │   └── init.sql          # SQL script to initialize the database
+- **├── docker-compose.yml**    # Docker Compose configuration
+- **├── README.md**             # Project documentation
+- **└── Dockerfile**            # Custom Dockerfile for PHP
 
 ## Team Members
 
