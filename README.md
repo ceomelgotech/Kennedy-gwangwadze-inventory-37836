@@ -42,6 +42,6 @@ Before running the project, ensure you have the following installed on your syst
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/inventory-management-system.git
-   cd inventory-management-system
+   git clone https://github.com/ceomelgotech/Kennedy-gwangwadze-inventory-37836.git
+   cd Kennedy-gwangwadze-inventory-37836
 
